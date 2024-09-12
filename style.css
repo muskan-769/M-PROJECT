@@ -1,0 +1,97 @@
+.main-div{
+display: inline-flex;
+}
+.main-nav{
+    margin-left: 350px;
+}
+.toyoa-img{
+    margin-left: 100px;
+}
+.main-heading{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+p{
+    text-align: center;
+}
+.mini-headings{
+    display: inline-flex;
+    margin-top: 40px;
+}
+h4{
+    margin-left: 40px;
+}
+.first-h4{
+    margin-left: 280px;
+}
+.card-1{
+    border: 2px solid black;
+    display: inline-flex;
+    text-align: center;
+    margin-top: 80px;
+    width: 250px;
+    
+}
+.card-2{
+    border: 2px solid black;
+    display: inline-flex;
+    text-align: center; 
+    margin-top: 80px;
+    width: 250px;
+}
+.card-3{
+    border: 2px solid black;
+    display: inline-flex;
+    text-align: center;
+    margin-top: 80px;
+    width: 250px;
+}
+.card-4{
+    border: 2px solid black;
+    display: inline-flex;
+    text-align: center;
+    margin-top: 80px;
+    width: 250px;
+}
+.text-main{
+    text-align: center;
+    margin-top: 70px;
+}
+.cards-main1{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.card-1{
+    margin-left: 40px;
+}
+.card-2{
+    margin-left: 20px;
+}
+.card-3{
+    margin-left: 20px;
+}
+.card-4{
+    margin-left: 2cqw;
+}
+.text-main2{
+    text-align: center;
+    margin-top: 70px;
+}
+.slider-3{
+    margin-top: 30px;
+}
+.text{
+    text-align: center;
+}
+h5{
+    padding-top: 30px;
+}
+.main-footer{
+    margin-top: 70px;
+}
